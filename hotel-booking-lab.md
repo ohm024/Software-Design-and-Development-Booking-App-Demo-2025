@@ -412,6 +412,7 @@ Server running on port 3001
 ### 📸 บันทึกผลการทดลอง: ผลการรัน Backend Server
 
 > แทรกรูปภาพที่นี่
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b87af2fe-0cff-49c0-8857-807cccd1f84c" />
 
 ---
 
