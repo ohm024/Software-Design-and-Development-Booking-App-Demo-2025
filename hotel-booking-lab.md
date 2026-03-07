@@ -460,7 +460,7 @@ Server running on port 3001
 ### 📸 บันทึกผลการทดลอง: ผลการทดสอบ Login และ Token
 
 > แทรกรูปภาพที่นี่
-
+<img width="1873" height="1026" alt="image" src="https://github.com/user-attachments/assets/6254c8dc-6728-433f-8722-3d651dcfaeb8" />
 ---
 
 ### 2.3 การทดสอบ CRUD Operations
@@ -492,6 +492,9 @@ Headers: Content-Type: application/json
 ### 📸 บันทึกผลการทดลอง: ผลการเพิ่มข้อมูลการจอง (POST) 3 รายการ
 
 > แทรกรูปภาพที่นี่
+<img width="1625" height="1007" alt="image" src="https://github.com/user-attachments/assets/74ef7bbf-c00c-4b49-9527-2732b1568d63" />
+<img width="1832" height="1038" alt="image" src="https://github.com/user-attachments/assets/29c068f6-f197-4b18-b0d6-f58572640a72" />
+<img width="1822" height="1028" alt="image" src="https://github.com/user-attachments/assets/91e8b1dc-3438-4ef2-8cb0-b90938936a32" />
 
 ---
 
@@ -508,6 +511,7 @@ Headers: Authorization: Bearer {{token}}
 ### 📸 บันทึกผลการทดลอง: ผลการ GET ข้อมูลทั้งหมด
 
 > แทรกรูปภาพที่นี่
+<img width="1757" height="1026" alt="image" src="https://github.com/user-attachments/assets/ffa27817-f663-43f6-b7ea-ef2300083f3a" />
 
 > ⚠️ หาก response แจ้ง `"Token ไม่ถูกต้องหรือหมดอายุ"` ให้ Login ใหม่แล้วอัปเดต token ใน Globals
 
@@ -524,6 +528,7 @@ Headers: Authorization: Bearer {{token}}
 ### 📸 บันทึกผลการทดลอง: ผลการ GET ข้อมูลโดยระบุ ID
 
 > แทรกรูปภาพที่นี่
+<img width="1747" height="1024" alt="image" src="https://github.com/user-attachments/assets/c8fa0f61-4c30-4cbd-b5ba-603b46e4ed75" />
 
 ---
 
@@ -552,6 +557,7 @@ Headers: Authorization: Bearer {{token}}
 ### 📸 บันทึกผลการทดลอง: ผลการแก้ไขข้อมูล (PUT) — ต้องเห็น comment ที่ไม่เป็น null
 
 > แทรกรูปภาพที่นี่
+<img width="1630" height="1009" alt="image" src="https://github.com/user-attachments/assets/9cf93e2e-67e6-4a42-8892-0a93a3ca9529" />
 
 ---
 
@@ -566,6 +572,7 @@ Headers: Authorization: Bearer {{token}}
 ### 📸 บันทึกผลการทดลอง: ผลการลบข้อมูล (DELETE)
 
 > แทรกรูปภาพที่นี่
+<img width="1568" height="978" alt="image" src="https://github.com/user-attachments/assets/06f3479a-6fef-4d82-93a6-44cafc72bc53" />
 
 ---
 
@@ -577,6 +584,8 @@ Headers: Authorization: Bearer {{token}}
 ### 📸 บันทึกผลการทดลอง: ผลการ DELETE with custom status และ GET /api/users
 
 > แทรกรูปภาพที่นี่
+<img width="1589" height="982" alt="image" src="https://github.com/user-attachments/assets/a7b6bc76-b0b1-45da-b3c2-e8477ca70e2f" />
+<img width="1595" height="961" alt="image" src="https://github.com/user-attachments/assets/92fba1ba-53fd-462c-b2db-9f7af857df21" />
 
 ---
 
