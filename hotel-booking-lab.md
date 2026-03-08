@@ -557,7 +557,8 @@ Headers: Authorization: Bearer {{token}}
 ### 📸 บันทึกผลการทดลอง: ผลการแก้ไขข้อมูล (PUT) — ต้องเห็น comment ที่ไม่เป็น null
 
 > แทรกรูปภาพที่นี่
-<img width="1630" height="1009" alt="image" src="https://github.com/user-attachments/assets/9cf93e2e-67e6-4a42-8892-0a93a3ca9529" />
+<img width="1918" height="1074" alt="image" src="https://github.com/user-attachments/assets/1cef6db5-675a-4d78-87be-36f8c62b31d9" />
+
 
 ---
 
